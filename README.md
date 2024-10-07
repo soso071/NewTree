@@ -28,12 +28,12 @@
  
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE"></a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot"></a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS"></a></li>
+    <li><a href="https://github.com/soso071/MediChat">프로젝트 1 - MediChat</a></li>
+    <li><a href="https://github.com/soso071/Doread.git">프로젝트 2 - DoRead</a></li>
+    <li><a href="https://github.com/soso071/Memo_aplication">프로젝트 3 - Javice</a></li>
 </ul>
  
 <p>
-    <a href="https://github.com/ZeroBin-dev"></a>와  
+    <a href="https://github.com/ZeroBin-dev"></a>
     <a href="https://zerobin-dev.tistory.com/"></a>
 </p>
