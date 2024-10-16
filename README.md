@@ -29,7 +29,7 @@
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
     <li><a href="https://github.com/soso071/MediChat">프로젝트 1 - MediChat</a></li>
-    <li><a href="https://github.com/soso071/Doread.git">프로젝트 2 - DoRead</a></li>(비공개)
+    <li><a href="https://github.com/soso071/Doread.git">프로젝트 2 - DoRead</a>(비공개)</li>
     <li><a href="https://github.com/soso071/Memo_aplication">프로젝트 3 - Javice</a></li>
 </ul>
  
